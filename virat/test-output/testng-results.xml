@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18217" started-at="2017-04-07T06:09:20Z" finished-at="2017-04-07T06:09:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18217" started-at="2017-04-07T06:09:20Z" finished-at="2017-04-07T06:09:38Z">
+      <class name="virat.Practisetable">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:virat.Practisetable@5474c6c]" name="beforeClass" is-config="true" duration-ms="7023" started-at="2017-04-07T11:39:20Z" finished-at="2017-04-07T11:39:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:virat.Practisetable@5474c6c]" name="f" duration-ms="11127" started-at="2017-04-07T11:39:27Z" finished-at="2017-04-07T11:39:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:virat.Practisetable@5474c6c]" name="afterClass" is-config="true" duration-ms="47" started-at="2017-04-07T11:39:38Z" finished-at="2017-04-07T11:39:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- virat.Practisetable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

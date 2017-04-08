@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="methods" >
+  <test name="Test">
+  <parameter name="browser" value="firefox"></parameter>
+  <classes>
+  <class name="virat.Crossbrowser"></class>
+  </classes>
+  </test> <!-- Test -->
+  
+  
+  <test name="Test1">
+  <classes>
+  <class name="virat.practice"></class>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
